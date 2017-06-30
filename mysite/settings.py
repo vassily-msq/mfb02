@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '2#ctuk+(pvks)+0nm$!%^u5mmdfgv)0yvvp2qazz7jhy$sa-ku'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False #True
+DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'devgogi.pythonanywhere.com']
 
